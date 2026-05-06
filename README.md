@@ -4,7 +4,7 @@
 
 ## Description
 
-A simple Java to-do list application with a Swing GUI. The app allows users to add, remove, and edit items on a to-do list. The list updates automatically after every change.
+A Java to-do list application with a Swing GUI. The app allows users to add, remove, and edit items on a to-do list. The list updates automatically after every change.
 
 ## Project Structure
 
